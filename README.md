@@ -74,7 +74,7 @@ Key relationships were created to support time-series analysis, customer segment
 
 <img width="1785" height="1006" alt="image" src="https://github.com/user-attachments/assets/1fd2538c-52c8-4426-b077-c35d10f3f98e" />
 
-
+<br></br>
 
 **Customer & Operations**
 - Review Score Distribution

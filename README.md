@@ -72,7 +72,8 @@ Key relationships were created to support time-series analysis, customer segment
 - Revenue by State
 - Payment Method Distribution
 
-<img width="1785" height="1006" alt="image" src="https://github.com/user-attachments/assets/1fd2538c-52c8-4426-b077-c35d10f3f98e" />
+<img width="1778" height="1004" alt="image" src="https://github.com/user-attachments/assets/bd302e32-18a5-4d17-9db7-1d8f2947351c" />
+
 
 <br></br>
 

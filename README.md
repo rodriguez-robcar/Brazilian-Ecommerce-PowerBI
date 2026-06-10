@@ -1,4 +1,4 @@
-# ${\color{blue}\text{Brazilian E-Commerce Analytics Dashboard}}$
+# ${\color{blue}\text{E-Commerce Analytics Dashboard}}$
 
 This project analyzes over 100,000 e-commerce orders from the Olist marketplace in Brazil using Power BI. The objective was to identify sales trends, customer behavior patterns, product performance, and delivery efficiency through interactive dashboards and business-focused KPIs.
 
